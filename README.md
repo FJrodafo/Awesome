@@ -21,7 +21,8 @@
 1. [Contributions](#contributions)
 2. [Dauntless](#dauntless)
 3. [FJrodafo](#fjrodafo)
-4. [Additional information](#additional-information)
+4. [MERN Stack](#mern-stack)
+5. [Additional information](#additional-information)
 
 ## Contributions
 
@@ -49,6 +50,13 @@
 * [ShrikeBot](https://github.com/FJrodafo/ShrikeBot) - A ShrikeBot clone made in JavaScript!
 * [to-do](https://github.com/FJrodafo/to-do) - Fast and minimalist to-do app!
 * [University](https://github.com/FJrodafo/University) - A repository of basic concepts!
+
+## MERN Stack
+
+* [mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+* [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+* [react](https://github.com/facebook/react) - The library for web and native user interfaces.
+* [node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## Additional information
 
