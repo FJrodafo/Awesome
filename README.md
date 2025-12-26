@@ -24,7 +24,8 @@
 4. [MERN Stack](#mern-stack)
 5. [Others](#others)
 6. [Personal Computer](#personal-computer)
-7. [Additional information](#additional-information)
+7. [Tech Stack](#tech-stack)
+8. [Additional information](#additional-information)
 
 ## Contributions
 
@@ -69,6 +70,12 @@
 
 * [apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository.
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## Tech Stack
+
+* [next.js](https://github.com/vercel/next.js) - The React Framework
+* [ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+* [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 
 ## Additional information
 
