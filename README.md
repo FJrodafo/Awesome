@@ -20,7 +20,8 @@
 
 1. [Contributions](#contributions)
 2. [Dauntless](#dauntless)
-3. [Additional information](#additional-information)
+3. [FJrodafo](#fjrodafo)
+4. [Additional information](#additional-information)
 
 ## Contributions
 
@@ -34,6 +35,20 @@
 * [dauntless-builder-legacy](https://github.com/atomicptr/dauntless-builder-legacy) - Create and share Dauntless builds with your friends!
 * [Dauntless-Leaderboards](https://github.com/PierreYvesFlamand/Dauntless-Leaderboards) - Dauntless Gauntlet and Trial leaderboards
 * [ThraxBoT](https://github.com/Super-EvilTeam/ThraxBoT) - ThraxBot is Utility Discord bot for Community server Thrax Enjoyers related to Dauntless Game.Simplifying the process of sharing builds especially for Console players and Discord Mobile users.
+
+## FJrodafo
+
+* [Awesome](https://github.com/FJrodafo/Awesome) - 😎 Awesome lists about all kinds of interesting topics!
+* [CV](https://github.com/FJrodafo/CV) - My professional minimalist curriculum vitae!
+* [DiscordAPP](https://github.com/FJrodafo/DiscordAPP) - A simple Discord APP made in JavaScript!
+* [DiscordCRPS](https://github.com/FJrodafo/DiscordCRPS) - A simple Discord Custom Rich Presence Status made in JavaScript!
+* [Dotfiles](https://github.com/FJrodafo/Dotfiles) - My scripts and configs!
+* [FJrodafo](https://github.com/FJrodafo/FJrodafo) - :octocat: This is my special repository!
+* [port-finder](https://github.com/FJrodafo/port-finder) - Fast and minimalist port finder!
+* [Portfolio](https://github.com/FJrodafo/Portfolio) - My professional minimalist portfolio!
+* [ShrikeBot](https://github.com/FJrodafo/ShrikeBot) - A ShrikeBot clone made in JavaScript!
+* [to-do](https://github.com/FJrodafo/to-do) - Fast and minimalist to-do app!
+* [University](https://github.com/FJrodafo/University) - A repository of basic concepts!
 
 ## Additional information
 
