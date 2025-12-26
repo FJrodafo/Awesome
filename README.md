@@ -19,10 +19,17 @@
 ## Index
 
 * [Topic](#topic)
+* [Additional information](#additional-information)
 
 ## Topic
 
 * [Awesome](https://github.com/FJrodafo/Awesome) - Description
+
+## Additional information
+
+This awesome list is available on GitHub Gist at https://gist.github.com/FJrodafo/fd77712fd773a7ee99b6e48720e9b4e4
+
+Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.com/FJrodafo
 
 <div align="center">
     <br />
