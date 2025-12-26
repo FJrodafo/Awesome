@@ -23,7 +23,8 @@
 3. [FJrodafo](#fjrodafo)
 4. [MERN Stack](#mern-stack)
 5. [Others](#others)
-6. [Additional information](#additional-information)
+6. [Personal Computer](#personal-computer)
+7. [Additional information](#additional-information)
 
 ## Contributions
 
@@ -63,6 +64,11 @@
 
 * [heroine-dusk](https://github.com/clintbellanger/heroine-dusk) - April OneGameAMonth WIP dungeon crawl game
 * [snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+
+## Personal Computer
+
+* [apt](https://github.com/Debian/apt) - Mirror of the apt git repository - This is just a mirror of the upstream repository.
+* [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## Additional information
 
