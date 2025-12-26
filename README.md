@@ -22,7 +22,8 @@
 2. [Dauntless](#dauntless)
 3. [FJrodafo](#fjrodafo)
 4. [MERN Stack](#mern-stack)
-5. [Additional information](#additional-information)
+5. [Others](#others)
+6. [Additional information](#additional-information)
 
 ## Contributions
 
@@ -57,6 +58,11 @@
 * [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 * [react](https://github.com/facebook/react) - The library for web and native user interfaces.
 * [node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+
+## Others
+
+* [heroine-dusk](https://github.com/clintbellanger/heroine-dusk) - April OneGameAMonth WIP dungeon crawl game
+* [snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 
 ## Additional information
 
