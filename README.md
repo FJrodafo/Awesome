@@ -25,7 +25,8 @@
 5. [Others](#others)
 6. [Personal Computer](#personal-computer)
 7. [Tech Stack](#tech-stack)
-8. [Additional information](#additional-information)
+8. [Tools](#tools)
+9. [Additional information](#additional-information)
 
 ## Contributions
 
@@ -76,6 +77,15 @@
 * [next.js](https://github.com/vercel/next.js) - The React Framework
 * [ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 * [vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+
+## Tools
+
+* [eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+* [bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide)
+* [VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
+* [cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+* [xwinwrap](https://github.com/r00tdaemon/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background.
+* [discord-vscode](https://github.com/iCrawl/discord-vscode) - 🖋️ Update your discord status with a rich presence
 
 ## Additional information
 
