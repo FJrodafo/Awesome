@@ -19,10 +19,18 @@
 ## Index
 
 1. [Contributions](#contributions)
-2. [Additional information](#additional-information)
+2. [Dauntless](#dauntless)
+3. [Additional information](#additional-information)
 
 ## Contributions
 
+* [dauntless-builder-legacy](https://github.com/atomicptr/dauntless-builder-legacy) - Create and share Dauntless builds with your friends!
+* [Dauntless-Leaderboards](https://github.com/PierreYvesFlamand/Dauntless-Leaderboards) - Dauntless Gauntlet and Trial leaderboards
+* [ThraxBoT](https://github.com/Super-EvilTeam/ThraxBoT) - ThraxBot is Utility Discord bot for Community server Thrax Enjoyers related to Dauntless Game.Simplifying the process of sharing builds especially for Console players and Discord Mobile users.
+
+## Dauntless
+
+* [DauntlessEndpointDocumentation](https://github.com/EisigesEis/DauntlessEndpointDocumentation) - Documentation of all http endpoints for the game Dauntless.
 * [dauntless-builder-legacy](https://github.com/atomicptr/dauntless-builder-legacy) - Create and share Dauntless builds with your friends!
 * [Dauntless-Leaderboards](https://github.com/PierreYvesFlamand/Dauntless-Leaderboards) - Dauntless Gauntlet and Trial leaderboards
 * [ThraxBoT](https://github.com/Super-EvilTeam/ThraxBoT) - ThraxBot is Utility Discord bot for Community server Thrax Enjoyers related to Dauntless Game.Simplifying the process of sharing builds especially for Console players and Discord Mobile users.
