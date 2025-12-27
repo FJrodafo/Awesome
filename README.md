@@ -98,5 +98,3 @@ Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.c
     <br />
     <p>Made with ❤️ by the community!</p>
 </div>
-<link rel="stylesheet" href="./README.css">
-<a class="scrollup" href="#top">&#x1F53C</a>
