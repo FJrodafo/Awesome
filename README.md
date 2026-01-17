@@ -30,6 +30,7 @@
 
 ## Contributions
 
+* [blindsort-tty](https://github.com/m3tozz/blindsort-tty) - a simple terminal-based number sorting game
 * [dauntless-builder-legacy](https://github.com/atomicptr/dauntless-builder-legacy) - Create and share Dauntless builds with your friends!
 * [Dauntless-Leaderboards](https://github.com/PierreYvesFlamand/Dauntless-Leaderboards) - Dauntless Gauntlet and Trial leaderboards
 * [ThraxBoT](https://github.com/Super-EvilTeam/ThraxBoT) - ThraxBot is Utility Discord bot for Community server Thrax Enjoyers related to Dauntless Game.Simplifying the process of sharing builds especially for Console players and Discord Mobile users.
@@ -64,7 +65,6 @@
 
 ## Others
 
-* [blindsort-tty](https://github.com/m3tozz/blindsort-tty) - a simple terminal-based number sorting game
 * [cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 * [heroine-dusk](https://github.com/clintbellanger/heroine-dusk) - April OneGameAMonth WIP dungeon crawl game
 * [snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
