@@ -64,6 +64,8 @@
 
 ## Others
 
+* [blindsort-tty](https://github.com/m3tozz/blindsort-tty) - a simple terminal-based number sorting game
+* [cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 * [heroine-dusk](https://github.com/clintbellanger/heroine-dusk) - April OneGameAMonth WIP dungeon crawl game
 * [snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 
