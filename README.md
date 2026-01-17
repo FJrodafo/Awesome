@@ -45,14 +45,17 @@
 ## FJrodafo
 
 * [Awesome](https://github.com/FJrodafo/Awesome) - 😎 Awesome lists about all kinds of interesting topics!
+* [BlindSort](https://github.com/FJrodafo/BlindSort) - A simple terminal-based number sorting game!
 * [CV](https://github.com/FJrodafo/CV) - My professional minimalist curriculum vitae!
 * [DiscordAPP](https://github.com/FJrodafo/DiscordAPP) - A simple Discord APP made in JavaScript!
 * [DiscordCRPS](https://github.com/FJrodafo/DiscordCRPS) - A simple Discord Custom Rich Presence Status made in JavaScript!
 * [Dotfiles](https://github.com/FJrodafo/Dotfiles) - My scripts and configs!
 * [FJrodafo](https://github.com/FJrodafo/FJrodafo) - :octocat: This is my special repository!
+* [FJrodafo.github.io](https://github.com/FJrodafo/FJrodafo.github.io) - :octocat: Bookmark this to keep an eye on my project updates!
 * [port-finder](https://github.com/FJrodafo/port-finder) - Fast and minimalist port finder!
 * [Portfolio](https://github.com/FJrodafo/Portfolio) - My professional minimalist portfolio!
 * [ShrikeBot](https://github.com/FJrodafo/ShrikeBot) - A ShrikeBot clone made in JavaScript!
+* [Slugify](https://github.com/FJrodafo/Slugify) - A simple slugify gem!
 * [to-do](https://github.com/FJrodafo/to-do) - Fast and minimalist to-do app!
 * [University](https://github.com/FJrodafo/University) - A repository of basic concepts!
 
