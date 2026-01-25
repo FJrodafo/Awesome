@@ -1,0 +1,14 @@
+name: Awesome!
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo the message
+        run: |
+          echo "Awesome!"
