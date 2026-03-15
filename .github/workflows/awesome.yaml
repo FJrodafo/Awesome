@@ -1,4 +1,4 @@
-name: Awesome!
+name: Awesome
 on: [push, pull_request]
 jobs:
   echo:
@@ -6,4 +6,4 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Awesome!"
+          echo '😎'
