@@ -23,11 +23,11 @@
 
 ## Topic
 
-* [Example](https://github.com/FJrodafo/Awesome/blob/main/EXAMPLE.md) - The curated list of awesome examples!
+* [Awesome List Example](https://github.com/FJrodafo/Awesome/blob/main/LIST_EXAMPLE.md) - The curated list of awesome projects examples!
 
 ## Additional information
 
-This awesome lists template is available on GitHub Gist at https://gist.github.com/FJrodafo/f237f18c5dd26da52cc249ad708019e0
+This awesome lists template is available on GitHub Gist at https://gist.github.com/FJrodafo/eaa339012ffa346c5fe139573b8fa39a
 
 Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.com/FJrodafo
 
