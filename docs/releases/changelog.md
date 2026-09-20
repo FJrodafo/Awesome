@@ -24,7 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Fixed
 
-- ...
+- Error: push-to-registry requires exactly one subject but 2 subjects were resolved
 
 ### Security
 
