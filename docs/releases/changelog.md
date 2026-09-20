@@ -24,11 +24,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Fixed
 
-- Error: Invalid image name: awesome-1.1.1.zip
+- ...
 
 ### Security
 
 - ...
+
+## [1.1.2] - 2026/09/20
+
+### Fixed
+
+- Error: Invalid image name: awesome-1.1.1.zip
 
 ## [1.1.1] - 2026/09/20
 
@@ -51,6 +57,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - All files (Existing project).
 
 [unreleased]: https://github.com/FJrodafo/Awesome/compare/1.0.0...HEAD
+[1.1.2]: https://github.com/FJrodafo/Awesome/releases/tag/1.1.2
 [1.1.1]: https://github.com/FJrodafo/Awesome/releases/tag/1.1.1
 [1.1.0]: https://github.com/FJrodafo/Awesome/releases/tag/1.1.0
 [1.0.0]: https://github.com/FJrodafo/Awesome/releases/tag/1.0.0
