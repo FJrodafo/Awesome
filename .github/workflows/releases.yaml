@@ -44,10 +44,10 @@ jobs:
         uses: actions/attest@v4
         with:
           subject-path: ${{ env.ARTIFACT }}-${{ github.ref_name }}.zip
-          push-to-registry: true
+          push-to-registry: false
       # Attest TAR.GZ
       - name: Attest TAR.GZ
         uses: actions/attest@v4
         with:
           subject-path: ${{ env.ARTIFACT }}-${{ github.ref_name }}.tar.gz
-          push-to-registry: true
+          push-to-registry: false
